@@ -1,0 +1,11 @@
+#update only code in thier directories
+*.txt
+*.pdf
+*.docx
+*.zip
+*.class
+data/
+out/
+.idea/
+*.iml
+.DS_Store
