@@ -3,7 +3,10 @@
 *.pdf
 *.docx
 *.zip
+*.rar
 *.class
+*.xlsx
+lib/
 data/
 out/
 .idea/
